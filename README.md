@@ -5,6 +5,7 @@
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
+ChatGPT (GPT-5)
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -32,7 +33,67 @@ A table comparing ChatGPT's responses to naïve and basic prompts across all sce
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
+Test Scenarios:
+
+We selected 4 different scenarios:
+
+Creative Story Generation
+
+Factual Question Answering
+
+Summarization of a Concept
+
+Advice/Recommendation Task
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2ce63617-724a-4750-b08f-07d67354975f" />
+        |
+
+Analysis:
+
+Quality:
+Naïve prompts often produce vague or generic outputs. Basic prompts give more structured, tailored, and higher-quality responses.
+
+Accuracy:
+Factual accuracy improves significantly with structured prompts since the model knows what context/details to include.
+
+Depth:
+Basic prompts yield deeper, multi-dimensional answers, while naïve prompts remain shallow.
+
+Observation:
+
+Creative/storytelling tasks showed the largest improvement when using structured prompts.
+
+Factual questions and summarization also benefited from clarity.
+
+Naïve prompts occasionally worked decently for simple definitions but lacked precision.
+
+Summary of Findings:
+
+Clarity and structure in prompts directly improve the quality, accuracy, and depth of responses.
+
+Naïve prompts work only for very simple queries but fail in tasks requiring detail, creativity, or accuracy.
+
+Basic/structured prompts consistently produce better results across all scenarios.
+
+For optimal results, prompts should:
+
+Be clear and specific.
+
+Provide context (who/what/why).
+
+State desired format/output (length, bullet points, examples, etc.).
+
+✅ Deliverable Completed:
+
+Table of comparisons
+
+Detailed analysis
+
+Findings & insights
+
 
 # OUTPUT
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/38d7a14b-208e-447b-88f6-ba6b78d43e13" />
+
 
 # RESULT: The prompt for the above said problem executed successfully
