@@ -9,6 +9,7 @@
 # Explanation: 
 Define the Two Prompt Types:
 
+
 Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model.
 Based on that pattern type refined the prompt and submit that with AI tool.
 Get the ouput and write the report.
